@@ -22,5 +22,5 @@ This project is intended to be a collaborative space for [@messedpRyan](https://
 - [pi-homelab-docs](https://github.com/pi-homelab-project/pi-homelab-docs): shared documenation and notes around cluster build and configuration
 - [eggchart-ui](https://github.com/pi-homelab-project/eggchart-ui): Front end for EggChart
 - [eggchart-api](https://github.com/pi-homelab-project/eggchart-api): Backed for EggChart
-- [jenkins-pipeline-library](https://github.com/pi-homelab-project/jenkins-pipeline-library): Shared pipeline library for our Jenkins Build Server
+- [pi-homelab-pipeline-library](https://github.com/pi-homelab-project/pi-homelab-pipeline-library): Shared pipeline library for our Jenkins Build Server
 
